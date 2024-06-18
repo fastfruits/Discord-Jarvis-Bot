@@ -1,0 +1,25 @@
+{
+  "name": "discordjarvisbot",
+  "version": "1.0.0",
+  "description": "Discord bot taht listens in to your conversations and executes commands based on what you say.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastfruits/DiscordJarvisBot"
+  },
+  "author": "Nicholas Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fastfruits/DiscordJarvisBot/issues"
+  },
+  "homepage": "https://github.com/fastfruits/DiscordJarvisBot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.4.0"
+  }
+}
